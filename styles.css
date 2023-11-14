@@ -34,19 +34,21 @@ body {
   list-style: none;
   padding: 0 20px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
   color: #1a1a1a;
   position: relative;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 #navbar a:hover,
 #navbar a.active {
   color: #088178;
+  transition: .5s;
 }
 
-#navbar a.active::after {
+#navbar a.active::after,
+#navbar a:hover::after {
   content: "";
   width: 30%;
   height: 2px;
@@ -54,4 +56,5 @@ body {
   position: absolute;
   bottom: -4px;
   left: 20px;
+  transition: .5s;
 }
