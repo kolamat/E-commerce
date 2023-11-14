@@ -44,7 +44,7 @@ body {
 #navbar a:hover,
 #navbar a.active {
   color: #088178;
-  transition: .5s;
+  /* transition: .5s; */
 }
 
 #navbar a.active::after,
@@ -56,5 +56,5 @@ body {
   position: absolute;
   bottom: -4px;
   left: 20px;
-  transition: .5s;
+  /* transition: .5s; */
 }
