@@ -45,8 +45,7 @@ body {
   color: #088178;
 }
 
-#navbar a.active {
-  text-decoration: underline;
+#navbar a.active::after {
   content: "";
   width: 30%;
   height: 2px;
