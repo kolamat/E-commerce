@@ -124,4 +124,7 @@ a {
   color: #088178;
   border: none;
   padding: 14px 80px 14px 65px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 15px;
 }
