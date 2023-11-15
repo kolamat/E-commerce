@@ -11,9 +11,9 @@
   font-family: 'Edu TAS Beginner', cursive;
 }
 
-body {
+/* body {
   width: 100%;
-}
+} */
 
 #header {
   display: flex;
