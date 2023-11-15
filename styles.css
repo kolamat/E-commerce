@@ -42,6 +42,14 @@ p {
   color: #465b52;
 }
 
+.section-p1 {
+  padding: 40px;
+}
+
+.section-m1 {
+  margin: 40px 0;
+}
+
 #header {
   display: flex;
   align-items: center;
