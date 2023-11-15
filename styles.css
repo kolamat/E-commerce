@@ -15,6 +15,12 @@ body {
   width: 100%;
 }
 
+h1 {
+  font-size: 50px;
+  line-height: 64px;
+  color: #222;
+}
+
 #header {
   display: flex;
   align-items: center;
