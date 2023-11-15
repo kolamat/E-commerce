@@ -120,4 +120,8 @@ a {
 
 #hero button {
   background-image: url(button.png);
+  background-color: transparent;
+  color: #088178;
+  border: none;
+  padding: 14px 80px 14px 65px;
 }
