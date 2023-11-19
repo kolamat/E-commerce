@@ -169,6 +169,6 @@ a {
   background-color: #fddde4;
 }
 
-#feature .fe-box:nth-child2(2) h6 {
+#feature .fe-box:nth-child(2) h6 {
   background-color: #cdebbc;
 }
